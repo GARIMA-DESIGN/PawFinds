@@ -1,4 +1,22 @@
 # PawFinds- A Pet Adoption Platform
 
-![screenshot one](https://github.com/GARIMA-DESIGN/PawFinds/blob/57962dd4c2e28368475c9691b6f42dcb0afe2e78/screenshots/Screenshot%20(510).png)
+![screenshot two](screenshots/Screenshot%20(510).png)
+
 ![screenshot two](screenshots/Screenshot%20(511).png)
+
+![screenshot two](screenshots/Screenshot%20(512).png)
+
+![screenshot two](screenshots/Screenshot%20(513).png)
+
+![screenshot two](screenshots/Screenshot%20(514).png)
+
+![screenshot two](screenshots/Screenshot%20(515).png)
+
+![screenshot two](screenshots/Screenshot%20(516).png)
+
+![screenshot two](screenshots/Screenshot%20(517).png)
+
+![screenshot two](screenshots/Screenshot%20(518).png)
+
+![screenshot two](screenshots/Screenshot%20(519).png)
+
